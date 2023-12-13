@@ -1,0 +1,9 @@
+**/.vs/
+*~
+*.gch
+*.exe
+**/ipch/
+*.tlog
+*.idb
+*.pdb
+*.o

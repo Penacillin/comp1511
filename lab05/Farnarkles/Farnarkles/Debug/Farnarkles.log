@@ -1,0 +1,4 @@
+﻿  farnarkle_player.c
+c:\users\nevin\onedrive\documents\unsw\comp1511\lab05\farnarkle_player.c(51): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  Farnarkles.vcxproj -> C:\Users\nevin\OneDrive\Documents\UNSW\COMP1511\lab05\Farnarkles\Debug\Farnarkles.exe
+  Farnarkles.vcxproj -> C:\Users\nevin\OneDrive\Documents\UNSW\COMP1511\lab05\Farnarkles\Debug\Farnarkles.pdb (Partial PDB)
