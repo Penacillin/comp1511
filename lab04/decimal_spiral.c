@@ -34,7 +34,8 @@ int main()
 {
     int n = 0;
     printf("Enter size: ");
-    scanf("%d", &n);
+    if(scanf("%d", &n) != 1)
+        return 1;
 
     int star = 1;
     int left = 0;
